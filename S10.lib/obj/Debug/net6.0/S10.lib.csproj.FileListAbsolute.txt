@@ -1,0 +1,12 @@
+C:\git\AP00012\S10\S10.lib\bin\Debug\net6.0\S10.lib.deps.json
+C:\git\AP00012\S10\S10.lib\bin\Debug\net6.0\S10.lib.dll
+C:\git\AP00012\S10\S10.lib\bin\Debug\net6.0\ref\S10.lib.dll
+C:\git\AP00012\S10\S10.lib\bin\Debug\net6.0\S10.lib.pdb
+C:\git\AP00012\S10\S10.lib\obj\Debug\net6.0\S10.lib.csproj.AssemblyReference.cache
+C:\git\AP00012\S10\S10.lib\obj\Debug\net6.0\S10.lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\AP00012\S10\S10.lib\obj\Debug\net6.0\S10.lib.AssemblyInfoInputs.cache
+C:\git\AP00012\S10\S10.lib\obj\Debug\net6.0\S10.lib.AssemblyInfo.cs
+C:\git\AP00012\S10\S10.lib\obj\Debug\net6.0\S10.lib.csproj.CoreCompileInputs.cache
+C:\git\AP00012\S10\S10.lib\obj\Debug\net6.0\S10.lib.dll
+C:\git\AP00012\S10\S10.lib\obj\Debug\net6.0\ref\S10.lib.dll
+C:\git\AP00012\S10\S10.lib\obj\Debug\net6.0\S10.lib.pdb

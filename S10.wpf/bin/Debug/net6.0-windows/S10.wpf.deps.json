@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "S10.wpf/1.0.0": {
+        "dependencies": {
+          "S10.lib": "1.0.0"
+        },
+        "runtime": {
+          "S10.wpf.dll": {}
+        }
+      },
+      "S10.lib/1.0.0": {
+        "runtime": {
+          "S10.lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S10.wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "S10.lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
